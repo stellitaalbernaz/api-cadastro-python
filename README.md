@@ -16,7 +16,7 @@ O projeto permite criar, listar, atualizar e remover usuários, sendo totalmente
 
   ## Tecnologias utilizadas
 
-  - Puthon 3.14
+  - Python 3.14
   - Flask
   - SQLite
   - Git/GitHub para versionamento
@@ -27,10 +27,10 @@ O projeto permite criar, listar, atualizar e remover usuários, sendo totalmente
     ## Estrutura do projeto
 
     api-cadastro-python/
-    |----app.py         # Arquivo principal que inicia a API
-    |----routes.py      # Contém todas as rotas (endpoints)
-    |----database.py    # Configuração e manipulação do banco SQLite
-    |----venv           # Ambiente virtual Python
+    ----app.py         # Arquivo principal que inicia a API
+    ----routes.py      # Contém todas as rotas (endpoints)
+    ----database.py    # Configuração e manipulação do banco SQLite
+    ----venv           # Ambiente virtual Python
 
     ---
 
@@ -39,3 +39,4 @@ O projeto permite criar, listar, atualizar e remover usuários, sendo totalmente
     1. Clone o repositório:
        '''bash
        git clone https://github.com/stellitaalbernaz/api-cadastro-python.git
+
